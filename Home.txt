@@ -1,2 +1,3 @@
 Welcome to home!!!!!
-Add hom address.
+Add home address.
+Add Location.
